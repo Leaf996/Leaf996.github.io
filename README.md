@@ -12,8 +12,11 @@
 ### Awesome Repo
 - [free-programming-books][5]
 
-### TODO
-- [ ][CUDA Programming]
+### CUDA
+- [**cuda-samples**][6]
+- [**cuda-gdb**][9]
+- [**cupy**][7]
+- [**cudarray**][8]
 
 
 [1]:https://github.com/Leaf996/attention_transformer_bert
@@ -21,3 +24,7 @@
 [3]:https://github.com/Leaf996/awesome-seq2seq
 [4]:https://github.com/Leaf996/tensorflow_xla
 [5]:https://github.com/EbookFoundation/free-programming-books
+[6]:https://github.com/NVIDIA/cuda-samples
+[7]:https://github.com/cupy/cupy
+[8]:https://github.com/andersbll/cudarray
+[9]:https://github.com/NVIDIA/cuda-gdb
