@@ -9,6 +9,9 @@
 - [tensorflow_xla][4]
     - xla related
 
+### Awesome Repo
+- [free-programming-books][5]
+
 ### TODO
 - [ ][CUDA Programming]
 
@@ -17,3 +20,4 @@
 [2]:https://github.com/Leaf996/awesome_asr
 [3]:https://github.com/Leaf996/awesome-seq2seq
 [4]:https://github.com/Leaf996/tensorflow_xla
+[5]:https://github.com/EbookFoundation/free-programming-books
